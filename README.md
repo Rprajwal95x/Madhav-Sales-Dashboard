@@ -47,4 +47,4 @@ Power Query
 DAX
 GitHub
 
-@ Dashboard screnshot()
+@ Dashboard screnshot(https://github.com/Rprajwal95x/Madhav-Sales-Dashboard/blob/main/madhav%20sales%20dashboard.png)
